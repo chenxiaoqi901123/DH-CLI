@@ -1,4 +1,4 @@
-# MobileAppCli
+# ResponsiveAppCli
 
 ## description
    此项目是一个用于官网展示的平台，支持响应式布局，适配不同设备。对SEO有友好的支持

@@ -1,4 +1,4 @@
-# ResponsiveAppCli
+# PCAppCli
 
 ## description
    此项目是一个用于 PC 端的 Web 应用，为了兼容 IE9，包含基础功能和自定义的脚手架。
